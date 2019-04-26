@@ -1,4 +1,4 @@
-from suds-jurko.client import Client
+from suds.client import Client
 
 
 class Connection:
