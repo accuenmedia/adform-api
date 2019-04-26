@@ -1,5 +1,5 @@
 requests
 nose
 pyyaml
-pep8
 suds-jurko
+pep8
