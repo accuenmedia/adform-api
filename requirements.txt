@@ -1,5 +1,5 @@
 requests
 nose
 pyyaml
-suds-jurko
 pep8
+zeep

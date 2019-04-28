@@ -1,5 +1,4 @@
-from suds.client import Client
-
+from Zeep import Client
 
 class Connection:
 
