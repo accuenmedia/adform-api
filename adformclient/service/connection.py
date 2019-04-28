@@ -1,4 +1,4 @@
-from Zeep import Client
+from zeep import Client
 
 class Connection:
 
