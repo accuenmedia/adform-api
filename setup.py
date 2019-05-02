@@ -12,6 +12,6 @@ setup(
     description='A simple client for the AdForm console.',
     long_description=open('README.txt').read(),
     install_requires=[
-        "suds",
+        "zeep",
     ],
 )
